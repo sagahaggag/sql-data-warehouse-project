@@ -1,11 +1,11 @@
 # sql-data-warehouse-project
-Building a modern data warehouse with MySQL, including ETL processes, data modeling and analytics.
+Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics.
 
 # Raw CSVs to Business Insights: A Data Warehouse Project
 
 Two source systems, a pile of messy CSV files, and one goal: turn them into a clean, reliable data model the business can trust.
 
-This project is my hands-on build of a modern data warehouse in **MySQL**. It consolidates sales data from an ERP and a CRM system, cleans up the data quality issues along the way, and lays the groundwork for SQL-based analytics on customer behavior, product performance, and sales trends.
+This project is my hands-on build of a modern data warehouse in **SQL Server**. It consolidates sales data from an ERP and a CRM system, cleans up the data quality issues along the way, and lays the groundwork for SQL-based analytics on customer behavior, product performance, and sales trends.
 
 I'm building it as part of my data learning journey, so you'll see the real thing here: the design decisions, the cleanup work, and the documentation that makes it all usable.
 
@@ -18,7 +18,7 @@ The project has two parts: first build the data warehouse, then build analytics 
 ### Part 1: Building the Data Warehouse (Data Engineering)
 
 **Objective**
-Develop a modern data warehouse in MySQL that consolidates sales data, enabling analytical reporting and informed decision-making.
+Develop a modern data warehouse in SQL Server that consolidates sales data, enabling analytical reporting and informed decision-making.
 
 **Specifications**
 

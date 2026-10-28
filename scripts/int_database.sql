@@ -14,8 +14,6 @@ WARNING:
 
 */
 
-
-
 USE master;
 GO
 
